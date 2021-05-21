@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "barter-system-app-stage-4",
+    "slug": "snack-62051b0d-f920-46e7-80e0-65d3985c35e2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "This is a Book Santa App in which the users can search for any book they wish to have with them, and if any user of the app will be having the book, then that user can send the book to the requester"
+  }
+}
